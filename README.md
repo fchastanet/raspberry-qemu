@@ -15,6 +15,12 @@ Assumptions
 
 Your system is able to execute 32 bit binaries, and you have git tool
 
+
+sudo apt-get update
+sudo apt-get install make git
+sudo apt-get install ncurses-dev
+sudo apt-get install ia32-libs
+
 Tests
 -----
 
